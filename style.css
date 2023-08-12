@@ -3,7 +3,7 @@ header{
     justify-content: space-around;
 }
 
-.categories {
+.categories { 
     display: flex;
     align-items: center;
     justify-content: space-around;
